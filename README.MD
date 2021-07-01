@@ -1,4 +1,4 @@
-## Frutas e Fruto - Bootsrap
+## Fruta e Fruto - Bootsrap
 <p align="center">
   <img src="https://img.icons8.com/plasticine/2x/circled-play.png" width="200px" height="200px"/></p>
 <p align="center">
@@ -6,7 +6,8 @@
 ## Um pouco do Projeto:
 
 ➡ Landing page simples de uma página de receitas focada no reaproveitamento de alimentos e na sua saúde
-  ➡ Site feito no curso de Bootsrap 4.0 da Alura com o intuito de ser apresentado a esse framework
+
+➡ Site feito no curso de Bootsrap 4.0 da Alura com o intuito de ser apresentado a esse framework
 
 ## Conteúdos
 
@@ -38,8 +39,9 @@
  3. Possui um carrosel com 2 imagem trocando e posição e com seus títulos também feitos com o Bootstrap
 
 ### Screenshot
+![](./src/images/Screenshot.png)
 ### Links
-- Site hospedado: [Nome](link)
+- Site hospedado: [Fruta e Fruto](https://glsvitoria.github.io/frutas-frutos-bootsrap/)
 
 ## Processo
 
@@ -48,6 +50,7 @@
 [<img src="https://img.shields.io/static/v1?label=&message=HTML&color=orange&style=for-the-badge&logo=HTML5&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria)
 [<img src="https://img.shields.io/static/v1?label=&message=JS&color=yellowgreen&style=for-the-badge&logo=JavaScript&logoColor=white" />](https://github.com/glsvitoria)
+[<img src="https://img.shields.io/static/v1?label=&message=Bootsrap4&color=blue&style=for-the-badge&logo=Bootstrap&logoColor=white" />](https://github.com/glsvitoria)
 
 ### O que eu aprendi
 - O uso do framework Bootstrap 4
