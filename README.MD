@@ -39,7 +39,7 @@
  3. Possui um carrosel com 2 imagem trocando e posição e com seus títulos também feitos com o Bootstrap
 
 ### Screenshot
-![](./src/images/Screenshot.png)
+![](./src/img/Screenshot.png)
 ### Links
 - Site hospedado: [Fruta e Fruto](https://glsvitoria.github.io/frutas-frutos-bootsrap/)
 
