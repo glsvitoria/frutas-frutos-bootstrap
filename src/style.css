@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.image-carousel-one {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 500px;
+}
+
+.image-carousel-two {
+    object-fit: cover;
+    height: 500px;
+}
+
+.font-used {
+    font-family: 'Pacifico', cursive;
+}
+
+.title {
+    color: darkred !important; /*O important sobrescreve qualquer estilo na cascata*/
+}
+
+.button-color {
+    background-color: darkred;
+    color: white;
+}
+
+.card-border {
+    border-color: darkred;
+}
+
+.position-card-image {
+    object-fit: cover;
+    /* object-position: 0 70%; */
+    height: 200px;
+}
+
+.article-width {
+    max-width: 18rem;
+}
+
+.social a {
+    font-size: 1.6rem;
+}
+
+.social a:hover {
+    text-decoration: none;
+}
