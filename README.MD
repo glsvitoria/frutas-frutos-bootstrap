@@ -6,7 +6,7 @@
 ## Um pouco do Projeto:
 
 ➡ Landing page simples de uma página de receitas focada no reaproveitamento de alimentos e na sua saúde
-➡ Site feito no curso de Bootsrap 4.0 da Alura com o intuito de ser apresentado a esse framework
+  ➡ Site feito no curso de Bootsrap 4.0 da Alura com o intuito de ser apresentado a esse framework
 
 ## Conteúdos
 
