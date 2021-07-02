@@ -17,11 +17,9 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Processo](#processo)
-  - [Contruido com](#construido-com)
   - [Tecnologia utilizadas](#tecnologias-utilizadas)
   - [O que eu aprendi](#oque-eu-aprendi)
   - [Continuação do desenvolvimento](#continuacao-do-desenvolvimento)
-  - [Recursos úteis](#recursos-uteis)
 - [Autor](#autor)
 
 ## Overview
