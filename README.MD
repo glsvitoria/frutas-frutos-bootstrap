@@ -29,7 +29,7 @@
 ### Como rodar o projeto
 
  1. Primeiramente é necessário ter o node js instalado(caso não tenha, apenas baixe a pasta zip do projeto) 
- 2. Clone o projeto com `git clone https://github.com/glsvitoria/frutas-frutos-bootsrap`
+ 2. Clone o projeto com `git clone https://github.com/glsvitoria/frutas-frutos-bootstrap`
  3. Após clonar o projeto, basta apenas abrir o html principal do site e utilizar as suas funcionalidades
 
 ### Como utilizar
@@ -41,7 +41,7 @@
 ### Screenshot
 ![](./src/img/Screenshot.png)
 ### Links
-- Site hospedado: [Fruta e Fruto](https://glsvitoria.github.io/frutas-frutos-bootsrap/)
+- Site hospedado: [Fruta e Fruto](https://glsvitoria.github.io/frutas-frutos-bootstrap/)
 
 ## Processo
 
